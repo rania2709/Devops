@@ -86,4 +86,4 @@ package tn.esprit.rh.achat;
 //      assertEquals(stock1, stockService.retrieveStock(stock1.getIdStock()));
 //      log.info("Retrieve works !!");
 //  }
-   }                                                                                
+                                                                                  
